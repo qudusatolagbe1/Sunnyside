@@ -1,0 +1,125 @@
+.heading {
+  background-image: url(/images/image-header.jpg);
+  padding-bottom: 29%;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.hh {
+  text-align: center;
+  padding-top: 200px;
+  color: azure;
+}
+.child1 {
+  background-color: beige;
+  width: 100%;
+  /* text-align: left;
+  padding-left: 30px;
+  padding-top: 200px; */
+}
+.h22{
+  text-align: center;
+}
+.child2 {
+  width: 100%;
+}
+.egg{
+  width: 100%;
+}
+
+.parent1 {
+  display: flex;
+  width: 100%;
+}
+.son1 {
+  width: 50%;
+}
+.son2 {
+  background-color: beige;
+  text-align: left;
+  padding-left: 30px;
+  padding-top: 200px;
+}
+
+.parent2 {
+  display: flex;
+}
+
+.parent3 {
+  background-image: url(/images/image-graphic-design.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 50%;
+  text-align: center;
+  padding-top: 300px;
+}
+
+.parent4 {
+  background-image: url(/images/image-photography.jpg);
+  width: 50%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-top: 300px;
+  text-align: center;
+}
+
+.navbar-text {
+  margin-left: 80%;
+}
+
+.parental {
+  display: flex;
+}
+.testimonial {
+  background-color: beige;
+  display: inline-flex;
+  padding-top: 150px;
+}
+
+.test1 {
+  text-align: center;
+}
+.test2 {
+  text-align: center;
+}
+.test3 {
+  text-align: center;
+}
+.im1 {
+  border-radius: 100px;
+  width: 100px;
+}
+.cc {
+  width: 100%;
+}
+.spread {
+  display: flex;
+}
+.footer {
+  background-color: rgb(177, 236, 219);
+}
+.sunny {
+  text-align: center;
+  padding-top: 100px;
+  color: #55998a;
+}
+.footermid {
+  display: flex;
+  justify-content: space-around;
+  padding-left: 40%;
+  padding-right: 40%;
+  color: #8cd0c1;
+  padding-top: 50px;
+}
+.logo {
+  text-align: center;
+  padding-top: 30px;
+}
+
+/* @media (max-width: 768px) {
+  .parent1 {
+    width: 30%;
+      
+  }
+  
+} */
